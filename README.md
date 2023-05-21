@@ -2,3 +2,4 @@
 
 1. Factory pattern
 2. Strategy pattern
+3. Singleton pattern
