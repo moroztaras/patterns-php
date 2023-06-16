@@ -33,7 +33,7 @@ class Logger
         return $this;
     }
 
-    public function getDateFormat():string
+    public function getDateFormat():?string
     {
         if (!$this->dateFormat){
             throw new \Exception('Date format is null');
